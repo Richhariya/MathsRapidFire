@@ -1,2 +1,2 @@
 # MathsRapidFire
-link to the game
+link to the game : https://hunuku.herokuapp.com/maths
